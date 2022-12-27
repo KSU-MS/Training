@@ -1,0 +1,15 @@
+TrainingTestFile
+
+Follow the instructions found in the README.
+
+Save and push chnages with th required commet when done.
+
+//start under this line
+
+jpsp123
+//John McCrary added on 12/27/2022
+
+
+
+
+//end of file
